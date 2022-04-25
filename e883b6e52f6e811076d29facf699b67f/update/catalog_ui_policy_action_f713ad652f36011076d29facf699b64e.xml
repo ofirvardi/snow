@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="WordPress Basic Stack BP">950f556d2ff2011076d29facf699b6af</catalog_item>
+        <catalog_variable>IO:fb11ed212f36011076d29facf699b61b</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 11:39:56</sys_created_on>
+        <sys_id>f713ad652f36011076d29facf699b64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sandbox_name</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_f713ad652f36011076d29facf699b64e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 11:39:56</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Data mandatory">89d229652f36011076d29facf699b6a6</ui_policy>
+        <variable>sandbox_name</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

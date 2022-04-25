@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Blueprints">8fd27d0e1b834110907b7596cc4bcb0d</sc_cat_item>
+        <sc_category display_value="Blueprints">ade2314e1b834110907b7596cc4bcbeb</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 12:21:43</sys_created_on>
+        <sys_id>8803b14e1b834110907b7596cc4bcb30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blueprints.Blueprints</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_update_name>sc_cat_item_category_8803b14e1b834110907b7596cc4bcb30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 12:21:43</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</application>
+        <file_path/>
+        <instance_id>853af3c14fe51e0094ac220f0310c766</instance_id>
+        <instance_name>dev19927</instance_name>
+        <name>sc_cat_item_category_8803b14e1b834110907b7596cc4bcb30</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Blueprints">8fd27d0e1b834110907b7596cc4bcb0d</sc_cat_item><sc_category display_value="Blueprints">ade2314e1b834110907b7596cc4bcbeb</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-25 12:21:43</sys_created_on><sys_id>8803b14e1b834110907b7596cc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Blueprints.Blueprints</sys_name><sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package><sys_policy/><sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope><sys_update_name>sc_cat_item_category_8803b14e1b834110907b7596cc4bcb30</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-25 12:21:43</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>2101870745</payload_hash>
+        <record_name>Blueprints.Blueprints</record_name>
+        <reverted_from/>
+        <source>2483b6e52f6e811076d29facf699b682</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 12:21:43</sys_created_on>
+        <sys_id>c803b14e1b834110907b7596cc4bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18060aba65d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 12:21:43</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>0403b14e68834110b80a4898c779ec33</update_guid>
+        <update_guid_history>0403b14e68834110b80a4898c779ec33:2101870745</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Blueprints.Blueprints">4703f14e1b834110907b7596cc4bcb3b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 12:21:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>033104526dfb438884c632a926bdd5e4</sys_id>
+        <sys_metadata>8803b14e1b834110907b7596cc4bcb30</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blueprints.Blueprints</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_scope_delete display_value="">2cd1ab6db03b4f8a940fba729e8f09c9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_8803b14e1b834110907b7596cc4bcb30</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_8803b14e1b834110907b7596cc4bcb30">c803b14e1b834110907b7596cc4bcb33</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 12:21:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
