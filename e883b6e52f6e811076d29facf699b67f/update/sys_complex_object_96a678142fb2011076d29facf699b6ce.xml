@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDd2a6781410b20110c007a9f3b36f1ece</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>e883b6e52f6e811076d29facf699b67f</scope_name>
+        <serialized_content>{"FlowDesigner:FDd2a6781410b20110c007a9f3b36f1ece":{"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"id\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"bb5d7e81-ebbf-4d7d-8a95-4a393d165ebf\"}"}},"FlowDesigner:FDd2a6781410b20110c007a9f3b36f1ece.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"root\",\"mandatory\":\"false\",\"uiUniqueId\":\"96328c2f-bf87-4706-a668-3ac0176c18fb\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDd2a6781410b20110c007a9f3b36f1ece\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-07 11:13:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>96a678142fb2011076d29facf699b6ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDd2a6781410b20110c007a9f3b36f1ece</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_update_name>sys_complex_object_96a678142fb2011076d29facf699b6ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-07 11:13:01</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

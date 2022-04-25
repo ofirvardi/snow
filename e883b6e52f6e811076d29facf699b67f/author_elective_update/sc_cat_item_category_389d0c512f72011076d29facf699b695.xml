@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="WordPress Basic Stack BP">9fdc8c112f72011076d29facf699b644</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-10 10:47:27</sys_created_on>
+        <sys_id>389d0c512f72011076d29facf699b695</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.WordPress Basic Stack BP</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_update_name>sc_cat_item_category_389d0c512f72011076d29facf699b695</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-10 10:47:27</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</application>
+        <file_path/>
+        <instance_id>56937329db30d410a667cac505961934</instance_id>
+        <instance_name>dev103581</instance_name>
+        <name>sc_cat_item_category_389d0c512f72011076d29facf699b695</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="WordPress Basic Stack BP">9fdc8c112f72011076d29facf699b644</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-10 10:47:27</sys_created_on><sys_id>389d0c512f72011076d29facf699b695</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.WordPress Basic Stack BP</sys_name><sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package><sys_policy/><sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope><sys_update_name>sc_cat_item_category_389d0c512f72011076d29facf699b695</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-10 10:47:27</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1397431983</payload_hash>
+        <record_name>Can We Help You?.WordPress Basic Stack BP</record_name>
+        <reverted_from/>
+        <source>2483b6e52f6e811076d29facf699b682</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-10 10:47:27</sys_created_on>
+        <sys_id>fc9d0c512f72011076d29facf699b699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1801315f4bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-10 10:47:27</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>749d0c5191720110f3a1d913424ac399</update_guid>
+        <update_guid_history>749d0c5191720110f3a1d913424ac399:1397431983</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.WordPress Basic Stack BP">540f19a12f36011076d29facf699b647</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 11:21:42</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>068e2ec662d649928072f974194a1091</sys_id>
+        <sys_metadata>389d0c512f72011076d29facf699b695</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.WordPress Basic Stack BP</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_scope_delete display_value="">2cd1ab6db03b4f8a940fba729e8f09c9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_389d0c512f72011076d29facf699b695</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_389d0c512f72011076d29facf699b695">fc9d0c512f72011076d29facf699b699</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 11:21:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="WordPress Basic Stack (AWS)">ceb9bc512ff2011076d29facf699b696</sc_cat_item>
+        <sc_catalog display_value="Blueprints">a8793c512ff2011076d29facf699b6a5</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-10 14:04:08</sys_created_on>
+        <sys_id>399a7c912ff2011076d29facf699b698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blueprints.WordPress Basic Stack (AWS)</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_399a7c912ff2011076d29facf699b698</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-10 14:04:08</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</application>
+        <file_path/>
+        <instance_id>56937329db30d410a667cac505961934</instance_id>
+        <instance_name>dev103581</instance_name>
+        <name>sc_cat_item_catalog_399a7c912ff2011076d29facf699b698</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="WordPress Basic Stack (AWS)">ceb9bc512ff2011076d29facf699b696</sc_cat_item><sc_catalog display_value="Blueprints">a8793c512ff2011076d29facf699b6a5</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-10 14:04:08</sys_created_on><sys_id>399a7c912ff2011076d29facf699b698</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Blueprints.WordPress Basic Stack (AWS)</sys_name><sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package><sys_policy/><sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope><sys_update_name>sc_cat_item_catalog_399a7c912ff2011076d29facf699b698</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-10 14:04:08</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-634407149</payload_hash>
+        <record_name>Blueprints.WordPress Basic Stack (AWS)</record_name>
+        <reverted_from/>
+        <source>2483b6e52f6e811076d29facf699b682</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-10 14:04:08</sys_created_on>
+        <sys_id>f59a7c912ff2011076d29facf699b69b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18013ca07590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-10 14:04:08</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>319a7c9154f2011093958dbb99fd369b</update_guid>
+        <update_guid_history>319a7c9154f2011093958dbb99fd369b:-634407149</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Blueprints.WordPress Basic Stack (AWS)">45d2bd0e1b834110907b7596cc4bcb85</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 12:20:58</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>23e9fb263d584454871a91584506ee01</sys_id>
+        <sys_metadata>399a7c912ff2011076d29facf699b698</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blueprints.WordPress Basic Stack (AWS)</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_parent display_value="">ceb9bc512ff2011076d29facf699b696</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_scope_delete display_value="">2cd1ab6db03b4f8a940fba729e8f09c9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_399a7c912ff2011076d29facf699b698</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_399a7c912ff2011076d29facf699b698">f59a7c912ff2011076d29facf699b69b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 12:20:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

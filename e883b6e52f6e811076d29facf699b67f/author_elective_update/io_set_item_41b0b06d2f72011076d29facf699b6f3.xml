@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Bp">70b0b06d2f72011076d29facf699b69b</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 07:59:25</sys_created_on>
+        <sys_id>41b0b06d2f72011076d29facf699b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Standard Employee Questions.Bp</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_update_name>io_set_item_41b0b06d2f72011076d29facf699b6f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 07:59:25</sys_updated_on>
+        <variable_set display_value="Standard Employee Questions">e01cab1a4f334200086eeed18110c71f</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</application>
+        <file_path/>
+        <instance_id>56937329db30d410a667cac505961934</instance_id>
+        <instance_name>dev103581</instance_name>
+        <name>io_set_item_41b0b06d2f72011076d29facf699b6f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Bp">70b0b06d2f72011076d29facf699b69b</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-11 07:59:25</sys_created_on><sys_id>41b0b06d2f72011076d29facf699b6f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Standard Employee Questions.Bp</sys_name><sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package><sys_policy/><sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope><sys_update_name>io_set_item_41b0b06d2f72011076d29facf699b6f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-11 07:59:25</sys_updated_on><variable_set display_value="Standard Employee Questions">e01cab1a4f334200086eeed18110c71f</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>1651132859</payload_hash>
+        <record_name>Standard Employee Questions.Bp</record_name>
+        <reverted_from/>
+        <source>2483b6e52f6e811076d29facf699b682</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 07:59:25</sys_created_on>
+        <sys_id>91b0b06d2f72011076d29facf699b6f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18017a279210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 07:59:25</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>19b0b06d8a72011012289b0d72d8b1f8</update_guid>
+        <update_guid_history>19b0b06d8a72011012289b0d72d8b1f8:1651132859</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Standard Employee Questions.Bp">b402fdca1b834110907b7596cc4bcb73</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 12:17:24</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>1ac0e0c94aab4cd49d3742dd7288ace4</sys_id>
+        <sys_metadata>41b0b06d2f72011076d29facf699b6f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Standard Employee Questions.Bp</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_scope_delete display_value="">2cd1ab6db03b4f8a940fba729e8f09c9</sys_scope_delete>
+        <sys_update_name>io_set_item_41b0b06d2f72011076d29facf699b6f3</sys_update_name>
+        <sys_update_version display_value="io_set_item_41b0b06d2f72011076d29facf699b6f3">91b0b06d2f72011076d29facf699b6f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 12:17:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

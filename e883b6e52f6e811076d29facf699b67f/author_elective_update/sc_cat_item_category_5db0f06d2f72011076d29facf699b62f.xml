@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Bp">70b0b06d2f72011076d29facf699b69b</sc_cat_item>
+        <sc_category display_value="Printers">5d643c6a3771300054b6a3549dbe5db0</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 07:59:26</sys_created_on>
+        <sys_id>5db0f06d2f72011076d29facf699b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Printers.Bp</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_update_name>sc_cat_item_category_5db0f06d2f72011076d29facf699b62f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 07:59:26</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</application>
+        <file_path/>
+        <instance_id>56937329db30d410a667cac505961934</instance_id>
+        <instance_name>dev103581</instance_name>
+        <name>sc_cat_item_category_5db0f06d2f72011076d29facf699b62f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Bp">70b0b06d2f72011076d29facf699b69b</sc_cat_item><sc_category display_value="Printers">5d643c6a3771300054b6a3549dbe5db0</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-11 07:59:26</sys_created_on><sys_id>5db0f06d2f72011076d29facf699b62f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Printers.Bp</sys_name><sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package><sys_policy/><sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope><sys_update_name>sc_cat_item_category_5db0f06d2f72011076d29facf699b62f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-11 07:59:26</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>445255554</payload_hash>
+        <record_name>Printers.Bp</record_name>
+        <reverted_from/>
+        <source>2483b6e52f6e811076d29facf699b682</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 07:59:26</sys_created_on>
+        <sys_id>15b0f06d2f72011076d29facf699b633</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18017a27c910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 07:59:26</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>99b0f06dec7201109270526c0e625732</update_guid>
+        <update_guid_history>99b0f06dec7201109270526c0e625732:445255554</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Printers.Bp">5d11786d2f72011076d29facf699b64f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 08:01:04</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>49e6cf840ba24a10b0673c0a82dc53b1</sys_id>
+        <sys_metadata>5db0f06d2f72011076d29facf699b62f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Printers.Bp</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_scope_delete display_value="">2cd1ab6db03b4f8a940fba729e8f09c9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_5db0f06d2f72011076d29facf699b62f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_5db0f06d2f72011076d29facf699b62f">15b0f06d2f72011076d29facf699b633</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 08:01:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

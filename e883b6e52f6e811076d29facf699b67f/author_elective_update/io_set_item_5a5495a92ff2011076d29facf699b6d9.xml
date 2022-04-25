@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>500</order>
+        <sc_cat_item display_value="">585495a92ff2011076d29facf699b66b</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 10:35:08</sys_created_on>
+        <sys_id>5a5495a92ff2011076d29facf699b6d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Devices Set.</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_update_name>io_set_item_5a5495a92ff2011076d29facf699b6d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 10:35:08</sys_updated_on>
+        <variable_set display_value="Mobile Devices Set">e84d3f3241411300964ff05369414e3e</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</application>
+        <file_path/>
+        <instance_id>56937329db30d410a667cac505961934</instance_id>
+        <instance_name>dev103581</instance_name>
+        <name>io_set_item_5a5495a92ff2011076d29facf699b6d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>500</order><sc_cat_item display_value="">585495a92ff2011076d29facf699b66b</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-11 10:35:08</sys_created_on><sys_id>5a5495a92ff2011076d29facf699b6d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Mobile Devices Set.</sys_name><sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package><sys_policy/><sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope><sys_update_name>io_set_item_5a5495a92ff2011076d29facf699b6d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-11 10:35:08</sys_updated_on><variable_set display_value="Mobile Devices Set">e84d3f3241411300964ff05369414e3e</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>806348612</payload_hash>
+        <record_name>Mobile Devices Set.</record_name>
+        <reverted_from/>
+        <source>2483b6e52f6e811076d29facf699b682</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 10:35:08</sys_created_on>
+        <sys_id>de5495a92ff2011076d29facf699b6dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180183109ad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 10:35:08</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>565495a9a3f201107e550b40692db7dc</update_guid>
+        <update_guid_history>565495a9a3f201107e550b40692db7dc:806348612</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Mobile Devices Set.">b8d2bd0e1b834110907b7596cc4bcb2d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 12:20:58</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>0a2d92d042f948879688f904d17aa9d1</sys_id>
+        <sys_metadata>5a5495a92ff2011076d29facf699b6d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Devices Set.</sys_name>
+        <sys_package display_value="Torque API Spoke" source="x_794123_torque_ap">e883b6e52f6e811076d29facf699b67f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Torque API Spoke">e883b6e52f6e811076d29facf699b67f</sys_scope>
+        <sys_scope_delete display_value="">2cd1ab6db03b4f8a940fba729e8f09c9</sys_scope_delete>
+        <sys_update_name>io_set_item_5a5495a92ff2011076d29facf699b6d9</sys_update_name>
+        <sys_update_version display_value="io_set_item_5a5495a92ff2011076d29facf699b6d9">de5495a92ff2011076d29facf699b6dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 12:20:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
